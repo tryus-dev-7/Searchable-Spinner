@@ -22,7 +22,7 @@ Keywords:-
 Add the dependency to your build.gradle.
 ```xml
 dependencies {
-	        implementation 'com.github.chetan532:SearchableSpinner:1.0.0'
+	        implementation 'com.github.tryus-dev-7:Searchable-Spinner:1.0.0'
 	}
 ```
 
@@ -39,7 +39,7 @@ allprojects {
 Usage on layout
 ```xml
 
-<com.cvaghela.spinner.searchablespinner.SearchableSpinner
+<com.trydev.spinner.searchablespinner.SearchableSpinner
         android:id="@+id/searchableSpinner"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
